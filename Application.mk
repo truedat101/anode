@@ -1,7 +1,7 @@
 ANODE_ROOT       := $(call my-dir)
 
 ifndef NODE_ROOT
-	NODE_ROOT    := $(ANODE_ROOT)/../node
+	NODE_ROOT    := $(ANODE_ROOT)/node
 endif
 
 APP_PROJECT_PATH := $(ANODE_ROOT)

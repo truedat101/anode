@@ -1,0 +1,3 @@
+[submodule "openssl-android"]
+	path = openssl-android
+	url = https://github.com/paddybyers/openssl-android.git

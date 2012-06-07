@@ -1,3 +1,9 @@
 [submodule "openssl-android"]
 	path = openssl-android
 	url = https://github.com/paddybyers/openssl-android.git
+[submodule "pty"]
+	path = pty
+	url = https://github.com/paddybyers/pty.git
+[submodule "node"]
+	path = node
+	url = https://github.com/paddybyers/node.git
